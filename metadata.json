@@ -1,0 +1,6 @@
+{
+  "name": "Skill-Based Job Matching & Project Management Platform",
+  "description": "Competency-oriented employment matching platform with accredited verified badges, multi-criteria compatibility scoring, and collaborative project task tracker for gig and blue-collar specialists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
